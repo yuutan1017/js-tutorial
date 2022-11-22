@@ -20,10 +20,11 @@ svg {
 }
 
 main {
-  width: 80%;
+  width: 100%;
   margin: auto;
   height: 100vh;
   font-family: sans-serif;
+  background: rgb(50, 50, 50);
 }
 
 .pickers,
